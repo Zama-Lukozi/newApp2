@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "Pay Gap Transparency Tool",
+    "version": "1.0",
+    "description": "Identify pay gaps and predict future raises with AI.",
+    "browser_action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab", "storage"]
+  }
+  
